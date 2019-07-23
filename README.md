@@ -2,7 +2,7 @@
 Udacity project to classify Dog Breeds with Pre-trained image classifier (AlexNet)
 This is a Udacity project aimed to teach students how to utilize functions from other coders into their own code. The majority of the code was provided by Udacity course developers. Within the majority of the python scripts are section marked TODO #. These sections were completed by the student as part of the project. The project gave me a better understanding of OOP principles, how to argument parse with command line inputs by the user, as well as a better general understanding of how neural networks work. This repository also contains a short, 1 paragraph report over results achieved between 3 different neural networks (VGG, ResNet, AlexNet)
 
-<h1>How to use</h1>:
+<h1>How to use:</h1>
 <p>1. Clone or download GitHub respository. All files are needed except for report and files marked with _hints.py.</p>
 <p>2. Go to file directory and input command python check_images.py --dir [image directory] --arch [vgg, alexnet or resnet] --dogfile [dognames.txt]</p>
 <p>3. Output will be Real ID of picture and what the classifier identifies it. </p>
